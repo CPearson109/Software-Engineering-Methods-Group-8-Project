@@ -10,7 +10,15 @@ John MacKinnon(40529391)
 
 Gregor Christie(40487446)
 
-[![LICENSE](https://img.shields.io/github/license/CPearson109/Software-Engineering-Methods-Group-8-Project.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+⚫License [![LICENSE](https://img.shields.io/github/license/CPearson109/Software-Engineering-Methods-Group-8-Project.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+
+⚫Main Build Status ![workflow](https://github.com/CPearson109/Software-Engineering-Methods-Group-8-Project/actions/workflows/main.yml/badge.svg)
+
+⚫Release [![Releases](https://img.shields.io/github/release/CPearson109/sem/all.svg?style=flat-square)](https://github.com/CPearson109/sem/releases)
+
+⚫Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/CPearson109/Software-Engineering-Methods-Group-8-Project/main.yml)
+
+
 
 Change log
 
