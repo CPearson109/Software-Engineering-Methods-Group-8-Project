@@ -14,6 +14,8 @@ Gregor Christie(40487446)
 
 ![workflow](https://github.com/CPearson109/Software-Engineering-Methods-Group-8-Project/actions/workflows/main.yml/badge.svg)
 
+[![Releases](https://img.shields.io/github/release/CPearson109/sem/all.svg?style=flat-square)](https://github.com/CPearson109/sem/releases)
+
 
 Change log
 
