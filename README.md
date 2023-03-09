@@ -19,7 +19,6 @@ Group 08 Member list:
 ⚫Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/CPearson109/Software-Engineering-Methods-Group-8-Project/main.yml)
 
 
-
 Change log:
 
 (26/01/2023)  
