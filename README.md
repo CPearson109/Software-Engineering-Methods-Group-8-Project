@@ -1,6 +1,6 @@
 ## GROUP project for Software Engineering Methods (SET08103) ##
 
-Group 08 Member list
+Group 08 Member list:
 
 <ul>
   <li>Cameron Pearson (40530119) SCRUM MASTER</li>
@@ -20,7 +20,7 @@ Group 08 Member list
 
 
 
-Change log
+Change log:
 
 (26/01/2023)  
 
