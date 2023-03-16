@@ -1,14 +1,4 @@
-GROUP project for Software Engineering Methods(SET08103)
-
-Member list
-
-Cameron Pearson(40530119) SCRUM MASTER
-
-Frances Kendall(40539160) PRODUCT OWNER
-
-John MacKinnon(40529391)
-
-Gregor Christie(40487446)
+## GROUP project for Software Engineering Methods (SET08103) ##
 
 ⚫License [![LICENSE](https://img.shields.io/github/license/CPearson109/Software-Engineering-Methods-Group-8-Project.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
 
@@ -19,8 +9,17 @@ Gregor Christie(40487446)
 ⚫Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/CPearson109/Software-Engineering-Methods-Group-8-Project/main.yml)
 
 
+Group 08 Member list:
 
-Change log
+<ul>
+  <li>Cameron Pearson (40530119) SCRUM MASTER</li>
+  <li>Frances Kendall (40539160) PRODUCT OWNER</li>
+  <li>John MacKinnon (40529391)</li>
+  <li>Fraser Clark (40552788)</li>
+</ul> 
+
+
+Change log:
 
 (26/01/2023)  
 
