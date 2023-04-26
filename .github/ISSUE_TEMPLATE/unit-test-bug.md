@@ -18,3 +18,6 @@ Steps to reproduce the behavior:
 Unit Test fails when run for unknown reason
 
 ***UNIT TESTS NOW FUNCTION***
+
+Fix:
+Errors were found in code then changed which resulted in the unit tests to work correctly
