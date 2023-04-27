@@ -23,14 +23,8 @@ public class App
             a.connect(args[0], Integer.parseInt(args[1]));
         }
 
-        // Extract employee salary information
-        //ArrayList<Employee> employees = a.getAllSalaries();
-
         // Extract city population information
-        ArrayList<City> cities = a.getAllPopulations();
-
-        // Test the size of the returned data - should be 240124
-        //System.out.println(employees.size());
+        //ArrayList<City> cities = a.getAllPopulations();
 
         // Disconnect from database
         a.disconnect();
@@ -101,6 +95,12 @@ public class App
         }
     }
 
+    public void helloMessage()
+    {
+        System.out.println("Hello World");
+    }
+
+
     /**
      * Get City details.
      * @return city, or null if there is an error.
@@ -143,7 +143,6 @@ public class App
      * Get Employee details.
      * @return emp, or null if there is an error.
      */
-    /*
     public Employee getEmployee(int ID)
     {
         try
@@ -178,8 +177,6 @@ public class App
         }
     }
 
-     */
-
 
     /**
      * Display City details.
@@ -197,11 +194,10 @@ public class App
         }
     }
 
-    /*
+
     /**
      * Display Employee details.
      */
-    /*
     public void displayEmployee(Employee emp)
     {
         if (emp != null)
@@ -217,7 +213,6 @@ public class App
         }
     }
 
-     */
 
     /**
      * Gets all the current cities and populations.
@@ -256,12 +251,11 @@ public class App
         }
     }
 
-    /*
+
     /**
      * Gets all the current employees and salaries.
      * @return A list of all employees and salaries, or null if there is an error.
      */
-    /*
     public ArrayList<Employee> getAllSalaries()
     {
         try
@@ -296,5 +290,4 @@ public class App
             return null;
         }
     }
-     */
 }
