@@ -26,6 +26,9 @@ public class App
         // Extract city population information
         //ArrayList<City> cities = a.getAllPopulations();
 
+        // Test Message
+        System.out.println("Return Results Here");
+
         // Disconnect from database
         a.disconnect();
     }
@@ -93,11 +96,6 @@ public class App
                 System.out.println("Error closing connection to database");
             }
         }
-    }
-
-    public void helloMessage()
-    {
-        System.out.println("Hello World");
     }
 
 
@@ -226,9 +224,9 @@ public class App
             Statement stmt = con.createStatement();
             // Create string for SQL statement
             String strSelect =
-                    "SELECT cities.city_id, cities.name, cities.population"
-                            + "FROM cities "
-                            + "ORDER BY cities.city_id ASC";
+                    "SELECT city_id, name, population"
+                            + "FROM city "
+                            + "ORDER BY city_id ASC";
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
             // Extract employee information
@@ -236,9 +234,9 @@ public class App
             while (rset.next())
             {
                 City city = new City();
-                city.city_id = rset.getInt("cities.city_id");
-                city.name = rset.getString("cities.name");
-                city.population = rset.getInt("cities.population");
+                city.city_id = rset.getInt("city.city_id");
+                city.name = rset.getString("city.name");
+                city.population = rset.getInt("city.population");
                 cities.add(city);
             }
             return cities;
